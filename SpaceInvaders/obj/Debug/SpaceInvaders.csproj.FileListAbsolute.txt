@@ -1,0 +1,9 @@
+F:\GitHub\space-invaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+F:\GitHub\space-invaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+F:\GitHub\space-invaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+F:\GitHub\space-invaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+F:\GitHub\space-invaders\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
+F:\GitHub\space-invaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+F:\GitHub\space-invaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+F:\GitHub\space-invaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+F:\GitHub\space-invaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
